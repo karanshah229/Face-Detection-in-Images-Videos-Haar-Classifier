@@ -13,7 +13,7 @@ Haar Cascade using Filters and Edge Detection to classify if something is a face
 0. Haar Cascade is a pre-trained model with its features selected
 1. Read image as pixel values
 2. Calculate Prefix Matrix / Integral Matrix
-3. Down sample the image to 24 x 24 pixels and work on this
+3. Down sample the image to 24 x 24 pixels
 4. Calculate Haar Classifier features difference   
 ![alt text](https://github.com/karanshah229/Face-Detection-in-Images-Videos-Haar-Classifier/blob/main/images/haar_features.PNG "Haar Features")
 5. For a simple 24 x 24 pixel image there could be 160000+ features.
