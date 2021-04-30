@@ -15,7 +15,7 @@ Haar Cascade using Filters and Edge Detection to classify if something is a face
 2. Calculate Prefix Matrix / Integral Matrix
 3. Down sample the image to 24 x 24 pixels
 4. Calculate Haar Classifier features difference   
-![alt text](https://github.com/karanshah229/Face-Detection-in-Images-Videos-Haar-Classifier/blob/main/images/haar_features.PNG "Haar Features")
+![alt text](https://github.com/karanshah229/Face-Detection-in-Images-Videos-Haar-Classifier/blob/main/images/haar_features.jpg "Haar Features")
 5. For a simple 24 x 24 pixel image there could be 160000+ features.
 6. But Haar Cascade has a way to removing the false images first and only after passing all the features test the final image is classified as a face
 7. So, it is easier to discard an image as not a face than assert that it is a face  
